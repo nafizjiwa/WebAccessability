@@ -8,7 +8,10 @@ Review
 
 Considerations for website accessibility. 
 
-Text should be at least 18px in size, and paragraphs should have a line-height of at least 1.5 to increase the readability of content.
+    Text should be at least 18px in size, 
+  
+    and paragraphs should have a line-height of at least 1.5 to increase the readability of content.
+    
 Color contrast between elements should be at least 4.5:1 for standard font sizes.
 Interactive elements should have a visual appearance denoting interactivity, such as underlined links and pointer cursor.
 Abbreviated content should be given additional content via the <abbr> element.
